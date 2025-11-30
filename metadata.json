@@ -1,0 +1,5 @@
+{
+  "name": "机械制图助手",
+  "description": "专为中职学生设计的机械制图智能学习平台。包含圆弧连接、三视图等重点难点的动态演示，以及基于 DeepSeek 的智能助教，帮助学生掌握绘图规范。",
+  "requestFramePermissions": []
+}
